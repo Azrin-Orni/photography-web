@@ -1,38 +1,267 @@
-.App {
+
+.MenuBg{
+
+  
+  position: relative;
+
+  top: 0;
+
+  
+  
+  width: 1400px;
+  height:700px;
+  
+  
+
+
+}
+
+.a1{
+  position: absolute;
   text-align: center;
+  padding-left: 23%;
+  top: 5%;
+  
+  
+  
+  font-family: Roboto;
+  font-size: 22px;
+  
+
+  color: #0A0A0A ;
+  text-decoration: none;
+  background-color: transparent;
+
+
+}
+.a2{
+position: absolute;
+  text-align: center;
+  top: 5%;
+  padding-left: 30%;
+  
+  
+  font-family: Roboto;
+  font-size: 22px;
+  
+
+  color: #0A0A0A ;
+  text-decoration: none;
+  background-color: transparent;
+
+  
+
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.a3{
+position: absolute;
+  text-align: center;
+  top: 5%;
+  padding-left: 37%;
+  
+  
+  font-family: Roboto;
+  font-size: 22px;
+  
+
+  color: #0A0A0A ;
+  text-decoration: none;
+  background-color: transparent;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.a4{
+position: absolute;
+  text-align: center;
+  top: 5%;
+  padding-left: 52%;
+  
+  
+  font-family: Roboto;
+  font-size: 22px;
+  
+
+  color: #0A0A0A ;
+  text-decoration: none;
+  background-color: transparent;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.a5{
+position: absolute;
+  text-align: center;
+  top: 5%;
+  padding-left: 59%;
+  
+  
+  font-family: Roboto;
+  font-size: 22px;
+  
+
+  color: #0A0A0A ;
+  text-decoration: none;
+  background-color: transparent;
 }
 
-.App-link {
-  color: #61dafb;
+.a6{
+position: absolute;
+  text-align: center;
+  top: 5%;
+  padding-left: 67%;
+  
+  
+  font-family: Roboto;
+  font-size: 22px;
+  
+
+  color: #0A0A0A ;
+  text-decoration: none;
+  background-color: transparent;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.a7{
+position: absolute;
+  text-align: center;
+  top: 5%;
+  padding-left: 72%;
+  
+  
+  font-family: Roboto;
+  font-size: 22px;
+  
+
+  color: #0A0A0A ;
+  text-decoration: none;
+  background-color: transparent;
 }
+
+
+
+
+.heading{
+  position: absolute;
+  color: #000000;
+  font-weight: 700;
+  font-size: 27px;
+  font-family: Roboto;
+  top: 35%;
+  padding-left: 400px;
+}
+
+
+.para{
+  position: absolute;
+  color: #534F4F;
+  text-align: left;
+  padding-left: 30%;
+  padding-right: 30%;
+  top: 47%;
+  
+  background-color: transparent;
+
+}
+.Arrow1{
+
+  color: #534D4D;
+  border-color: black;
+  position: absolute;
+  left: 25%;
+  
+  top: 57%;
+
+}
+
+.Arrow2{
+
+  color: #534D4D;
+  border-color: black;
+  position: absolute;
+
+  color: #534D4D;
+  border-color: black;
+  
+  top: 57%;
+ 
+  left: 70%;
+  
+}
+
+
+.button{
+  font-family: Roboto;
+  border: 1px solid;
+  border-color: #C10303;
+  border-radius: 15px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: transparent;
+  position: absolute;
+  left: 30%;
+  top: 65%;
+
+  font-size: 16px;
+}
+
+.About{
+   background-color:#FCF9F9;
+   position: relative;
+   padding-top: 13%;
+
+}
+
+.Photo1{
+ 
+  background-color:#FCF9F9;
+  padding-bottom: 320px;
+  padding-left: 120px;
+  width: 100px;
+  padding-bottom: 300px;
+
+
+}
+
+
+.Photo2{
+  padding-left: 40px;
+  background-color:#FCF9F9;
+   padding-bottom: 275px;
+   width: 100px;
+
+}
+
+.Photo3{
+  padding-left: 45px;
+  padding-bottom: 235px;
+  width: 100px;
+
+ 
+}
+
+
+
+.header {
+  position: absolute;
+  left: 60%;
+
+  font: Roboto Mono;
+  font-weight: 700;
+  font-size: 24px;
+
+}
+.para2{
+  font-size: 18px;
+  position: absolute;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  padding-left: 760px;
+  right: 25%;
+  text-align: left;
+  line-height: 25px;
+  top: 30%;
+
+}
+
+
+
