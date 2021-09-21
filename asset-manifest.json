@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/photography-web/static/css/main.1421b668.chunk.css",
+    "main.js": "/photography-web/static/js/main.c740c83f.chunk.js",
+    "main.js.map": "/photography-web/static/js/main.c740c83f.chunk.js.map",
+    "runtime-main.js": "/photography-web/static/js/runtime-main.0f93cee1.js",
+    "runtime-main.js.map": "/photography-web/static/js/runtime-main.0f93cee1.js.map",
+    "static/js/2.5cab11bf.chunk.js": "/photography-web/static/js/2.5cab11bf.chunk.js",
+    "static/js/2.5cab11bf.chunk.js.map": "/photography-web/static/js/2.5cab11bf.chunk.js.map",
+    "static/js/3.29d3c56b.chunk.js": "/photography-web/static/js/3.29d3c56b.chunk.js",
+    "static/js/3.29d3c56b.chunk.js.map": "/photography-web/static/js/3.29d3c56b.chunk.js.map",
+    "index.html": "/photography-web/index.html",
+    "static/css/main.1421b668.chunk.css.map": "/photography-web/static/css/main.1421b668.chunk.css.map",
+    "static/js/2.5cab11bf.chunk.js.LICENSE.txt": "/photography-web/static/js/2.5cab11bf.chunk.js.LICENSE.txt",
+    "static/media/gab.80216578.jpg": "/photography-web/static/media/gab.80216578.jpg",
+    "static/media/logo.6ce24c58.svg": "/photography-web/static/media/logo.6ce24c58.svg",
+    "static/media/offset1.993c4c93.jpg": "/photography-web/static/media/offset1.993c4c93.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f93cee1.js",
+    "static/js/2.5cab11bf.chunk.js",
+    "static/css/main.1421b668.chunk.css",
+    "static/js/main.c740c83f.chunk.js"
+  ]
+}
